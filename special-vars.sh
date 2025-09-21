@@ -9,3 +9,6 @@ echo "current directory name: $PWD"
 echo "who is running this: $USER"
 echo "user home directory: $HOME"
 echo "PID of the script: $$"
+sleep 50 $
+
+echo "pid of the last command in script: $!"
