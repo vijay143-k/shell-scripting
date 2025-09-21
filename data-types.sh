@@ -12,4 +12,4 @@ echo "print the sum: ${SUM}"
 
 LEADERS=("modi" "putin" "trump" "vijay" "vijju")
 
-echo "all varibles printed: ${LEADERS}[@]"
+echo "all varibles printed: ${LEADERS[@]}"
