@@ -9,3 +9,7 @@ NAME=devops
 SUM=$(($NUMBER1+$NUMBER2+$NAME))
 
 echo "print the sum: ${SUM}"
+
+LEADERS=("modi" "putin" "trump" "vijay" "vijju")
+
+echo "all varibles printed: ${LEADERS}[@]"
