@@ -1,2 +1,4 @@
 #!/bib/bash
-vijay loves kavitha
+
+echo "vijay loves kavitha"
+
